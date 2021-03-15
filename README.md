@@ -1,2 +1,2 @@
 # Derivatives
-Repository for Derivatives code
+Repository for Derivatives & Structured notes pricing code
